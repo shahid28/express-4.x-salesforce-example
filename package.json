@@ -1,21 +1,21 @@
 {
-  "name": "express-4.x-facebook-example",
+  "name": "express-4.x-salesforce-example",
   "version": "0.0.0",
-  "description": "Express 4.x app using Passport for authentication with Facebook.",
+  "description": "Express 4.x app using Passport for authentication with Salesforce.",
   "keywords": [
     "example",
     "express",
     "passport"
   ],
-  "author": "Jared Hanson",
+  "author": "Shahid Iqbal",
   "license": "Unlicense",
-  "homepage": "https://github.com/passport/express-4.x-facebook-example",
+  "homepage": "https://github.com/shahid28/express-4.x-salesforce-example",
   "repository": {
     "type": "git",
-    "url": "git://github.com/passport/express-4.x-facebook-example.git"
+    "url": "git://github.com/shahid28/express-4.x-salesforce-example.git"
   },
   "bugs": {
-    "url": "https://github.com/passport/express-4.x-facebook-example/issues"
+    "url": "https://github.com/shahid28/express-4.x-salesforce-example/issues"
   },
   "dependencies": {
     "body-parser": "^1.13.2",
@@ -26,6 +26,6 @@
     "express-session": "^1.11.3",
     "morgan": "^1.6.1",
     "passport": "^0.2.2",
-    "passport-facebook": "^2.0.0"
+    "passport-salesforce-oauth2": "^0.x.x"
   }
 }
